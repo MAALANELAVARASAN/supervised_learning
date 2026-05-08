@@ -1,0 +1,3 @@
+[submodule "Projects/FAQ_generator/knowledge_based_faq"]
+	path = Projects/FAQ_generator/knowledge_based_faq
+	url = https://github.com/MAALANELAVARASAN/Knowledge-Based-FAQ-Generator.git
